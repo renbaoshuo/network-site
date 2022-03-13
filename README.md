@@ -18,6 +18,11 @@ This network supports IPv4 and IPv6.
 
 ▲ IPv6
 
+## Prefixes
+
+- `174.136.239.0/24`
+- `2406:840:e080::/44`
+
 ## Peering
 
 We have an open peering policy. You can peer with us through the Internet Exchange listed below.
